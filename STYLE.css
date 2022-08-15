@@ -1,0 +1,140 @@
+body{
+    background-color: rgb(113, 117, 160);
+}
+
+h1{
+    color: rgb(9, 9, 9);
+    font-size: 25px;
+}
+.h2{
+    color: rgb(248, 4, 4);
+    float: right;
+}
+.h3{
+    color: rgb(243, 6, 17);
+}
+.new{
+    background-color: rgb(7, 7, 7);
+}
+.p1{
+    display: inline-block;
+    font: italic bold 20px/20px cambria,serif;
+    border-style: ;
+    border-top: 10px;
+    border-bottom: 10px;
+    background-color: grey;
+}
+.p2{
+    display: inline-block;
+    font: italic bold 20px/20px cambria,serif;
+    border-top: 10px;
+    border-bottom: 10px;
+    border-style: ;
+    background-color: grey;
+}
+.p3{
+    display: inline-block;
+    font: italic bold 20px/20px cambria,serif;
+    border-top: 10px;
+    border-bottom: 10px;
+    border-style: ;
+    background-color: gray;
+}  
+.p4{
+    display: inline-block;
+    font: italic bold 20px/20px cambria,serif;
+    border-top: 10px;
+    border-bottom: 10px;
+    border-style: ;
+    background-color: grey;
+}
+
+.image{
+    float: right;
+   
+}
+.images{
+    float: right;
+}
+.description{
+    width: 100px;
+    height: 30px;
+    float: right;
+    font-size: 10px;
+    text-align: center;
+}
+
+.descriptions{
+    width: 100px;
+    height: 30px;
+    float: right;
+    font-size: 10px;
+    text-align: center;
+}
+
+header{
+background-color: rgb(116, 116, 177);
+}
+
+nav{
+background-color: rgb(17, 0, 255);
+max-width: 1300px;
+max-height: 1300px;
+overflow: auto;
+border-radius: px;
+border-top: 10px;
+border-bottom: 10px;
+}
+ul{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+li{
+    float: left;
+}
+nav a{
+    text-decoration: none;
+    width: 180px;
+    border-style: double;
+    border-top: 1px;
+    border-bottom: 1px;
+    border-color: rgb(116, 122, 216);
+    display: inline-block;
+    text-align: center;
+    background-color: rgb(12, 8, 248);
+    font-size: 25px;
+    color: rgb(7, 7, 7);
+    padding: 30px 20px;
+    font-style: italic;
+}
+nav a:hover{
+    background-color: azure;
+    color: rgb(red, green, blue);
+}
+/* Boxes */
+#boxes{
+    margin-top: 20px;
+    text-align: center;
+}
+#boxes .mg{
+    width: 30px;
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+    width: 180px;
+    border-style: double;
+    border-top: 1px;
+    border-bottom: 1px;
+    border-color: rgb(116, 122, 216);
+    display: inline-block;
+    text-align: center;
+    background-color: rgb(12, 8, 248);
+    font-size: 25px;
+    color: rgb(7, 7, 7);
+    padding: 30px 20px;
+    font-style: italic;
+}
+#boxes .mg img{
+    width: 100px;
+}
